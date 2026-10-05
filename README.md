@@ -39,6 +39,8 @@ For service businesses a missed call is often a lost job, because the caller sim
 
 ## Screenshots
 
+> Screenshots show the app running on seeded demo data, not client data.
+
 **Missed calls, SMS status and settings**
 
 ![Missed calls, SMS status and settings](assets/00-dashboard.png)
